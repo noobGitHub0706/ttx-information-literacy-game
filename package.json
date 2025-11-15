@@ -1,0 +1,56 @@
+{
+  "name": "ttx-information-literacy-game",
+  "version": "1.0.0",
+  "description": "情報操作に対する心理的抵抗力を育成するための教育ゲーム（接種理論ベース）",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "education",
+    "information-literacy",
+    "inoculation-theory",
+    "misinformation",
+    "critical-thinking",
+    "game-based-learning",
+    "tabletop-exercise"
+  ],
+  "author": {
+    "name": "Hosei University Graduate School",
+    "email": "your-email@example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ttx-information-literacy-game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/ttx-information-literacy-game/issues"
+  },
+  "homepage": "https://github.com/your-username/ttx-information-literacy-game#readme"
+}
