@@ -131,19 +131,6 @@ Firebaseなどのバックエンドと統合することで、以下のデータ
 - 学習効果の測定
 - 事前・事後テストの比較
 
-## ライセンス
-
-MIT License - 詳細は [LICENSE](LICENSE) ファイルを参照してください。
-
-## 引用
-
-研究や教育でこのプロジェクトを使用する場合は、以下のように引用してください：
-
-```
-[作者名]. (2024). TTX情報リテラシー教育ゲーム. 
-GitHub repository: https://github.com/your-username/ttx-information-literacy-game
-```
-
 ## 参考文献
 
 - McGuire, W. J. (1964). Inducing resistance to persuasion.
