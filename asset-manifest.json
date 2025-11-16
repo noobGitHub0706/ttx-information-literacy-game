@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/your-username/ttx-information-literacy-game/static/css/main.9f088a99.css",
+    "main.js": "/your-username/ttx-information-literacy-game/static/js/main.b031566c.js",
+    "index.html": "/your-username/ttx-information-literacy-game/index.html",
+    "main.9f088a99.css.map": "/your-username/ttx-information-literacy-game/static/css/main.9f088a99.css.map",
+    "main.b031566c.js.map": "/your-username/ttx-information-literacy-game/static/js/main.b031566c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f088a99.css",
+    "static/js/main.b031566c.js"
+  ]
+}
